@@ -1,6 +1,6 @@
 {
-  "name": "Nylas-Mail-Composer",
-  "version": "0.1.1",
+  "name": "Nylas-Mail-Markdown",
+  "version": "0.2.0",
   "main": "./lib/main",
   "title": "Nylas Mail Markdown",
   "description": "Write emails using markdown! An updated fork of nylas/N1-Markdown-Composer",
