@@ -3,7 +3,7 @@
 
 This is a plugin for composing emails in Nylas Mail using Markdown. It is a fork from [nylas/N1-Markdown-Composer](https://github.com/nylas/N1-Markdown-Composer) that I updated to work on newer versions of Nylas Mail.
 
-This is most likely a very hacky solution, as I don't know React -- so it's probably rather unstable.
+This is most likely a very hacky solution, as I don't know exactly what I was doing (trial and error ftw!) -- so it's probably rather unstable.
 
 Below is the readme from the original repo.
 
