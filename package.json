@@ -1,9 +1,9 @@
 {
-  "name": "N1-Markdown-Composer",
-  "version": "0.1.0",
+  "name": "Nylas-Mail-Composer",
+  "version": "0.1.1",
   "main": "./lib/main",
-  "title": "Markdown",
-  "description": "Write emails using markdown!",
+  "title": "Nylas Mail Markdown",
+  "description": "Write emails using markdown! An updated fork of nylas/N1-Markdown-Composer",
   "license": "GPL-3.0",
   "icon": "./icon.png",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nylas/N1-Markdown-Composer"
+    "url": "https://github.com/Morsby/Nylas-Mail-Markdown"
   },
   "windowTypes": {
     "default": true,
